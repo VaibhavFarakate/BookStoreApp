@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet",
+        "price":"00",
+        "category":"free",
+        "image":"https://www.freepik.com/free-psd/book-hardcover-mockup_10698307.htm#fromView=search&page=1&position=16&uuid=3bb68ef2-4c08-469a-bf1c-6b1b8a4a7d26"
+    },
+    {
+        "id":2,
+        "name":"Comic Book",
+        "title":"consectetur, adipisicing elit.",
+        "price":"00",
+        "category":"free",
+        "image":"https://www.freepik.com/free-psd/book-hardcover-mockup_10698307.htm#fromView=search&page=1&position=16&uuid=3bb68ef2-4c08-469a-bf1c-6b1b8a4a7d26"
+    },
+    {
+        "id":3,
+        "name":"Chess Book",
+        "title":"jkge cfgewrae sgh",
+        "price":"00",
+        "category":"free",
+        "image":"https://www.freepik.com/free-psd/book-hardcover-mockup_10698307.htm#fromView=search&page=1&position=16&uuid=3bb68ef2-4c08-469a-bf1c-6b1b8a4a7d26"
+    },
+    {
+        "id":4,
+        "name":"History Book",
+        "title":"jkge cfgewrae sgh",
+        "price":"00",
+        "category":"free",
+        "image":"https://www.freepik.com/free-psd/book-hardcover-mockup_10698307.htm#fromView=search&page=1&position=16&uuid=3bb68ef2-4c08-469a-bf1c-6b1b8a4a7d26"
+    },
+    {
+        "id":5,
+        "name":"Music Book",
+        "title":"jkge cfgewrae sgh",
+        "price":"00",
+        "category":"free",
+        "image":"https://www.freepik.com/free-psd/book-hardcover-mockup_10698307.htm#fromView=search&page=1&position=16&uuid=3bb68ef2-4c08-469a-bf1c-6b1b8a4a7d26"
+    },
+    {
+        "id":6,
+        "name":"Mystery Book",
+        "title":"jkge cfgewrae sgh",
+        "price":"00",
+        "category":"free",
+        "image":"https://www.freepik.com/free-psd/book-hardcover-mockup_10698307.htm#fromView=search&page=1&position=16&uuid=3bb68ef2-4c08-469a-bf1c-6b1b8a4a7d26"
+    }
+]
